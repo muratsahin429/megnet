@@ -1,4 +1,5 @@
-version: 2
+version: 1
+
 jobs:
   py3test:
     working_directory: ~/megnet
